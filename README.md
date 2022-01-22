@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MERN and AWS Combo**
 - 👯 I’m working on  **Developing new and intriguing projects, with the community, for the community.**
 - 🤔 I’m looking for help with **Cloud Architecture, Systems Design, Cloud Migration, Advance Disaster Recovery Plan and Security**
-- 💬 Ask me about **Technology, Cloud, Serverless, Teamwork.**
+- 💬 Ask me about **Technology, Cloud, Product Design & Development Life cycle.**
 - ⚡ Fun fact: **Code, Eat, Sleep & Repeat**
 
 # *I am willing to collaborate as a team player building better code.*
